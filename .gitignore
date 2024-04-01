@@ -75,3 +75,6 @@ DerivedDataCache/*
 /MDSProject_HATMAN/Saved/Crashes
 /MDSProject_HATMAN/Saved/Logs
 /MDSProject_HATMAN/Saved/AutoScreenshot.png
+CrashReportClient.ini
+*.log
+!MDSProject_HATMAN.log
