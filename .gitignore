@@ -72,4 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-/MDSProject_HATMAN/Saved
+/MDSProject_HATMAN/Saved/Crashes
+/MDSProject_HATMAN/Saved/Logs
+/MDSProject_HATMAN/Saved/AutoScreenshot.png
