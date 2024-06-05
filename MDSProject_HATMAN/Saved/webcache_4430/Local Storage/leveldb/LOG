@@ -1,3 +1,5 @@
-2024/03/26-19:14:42.177 6ddc Reusing MANIFEST E:/Github/Repositories/Hatman/Hatman/MDSProject_HATMAN/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/03/26-19:14:42.178 6ddc Recovering log #3
-2024/03/26-19:14:42.179 6ddc Reusing old log E:/Github/Repositories/Hatman/Hatman/MDSProject_HATMAN/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/06/05-02:07:07.705 6a64 Creating DB E:/Github/Repositories/Hatman/Hatman/MDSProject_HATMAN/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/06/05-02:07:07.888 6a64 Reusing MANIFEST E:/Github/Repositories/Hatman/Hatman/MDSProject_HATMAN/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/06/05-04:43:55.445 72d0 Level-0 table #5: started
+2024/06/05-04:43:55.629 72d0 Level-0 table #5: 15907 bytes OK
+2024/06/05-04:43:55.696 72d0 Delete type=0 #3
