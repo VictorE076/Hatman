@@ -12,14 +12,14 @@ In this game, your mental and physical prowess will be put to the test through i
 ## Key Features
 
 - **Immersive Storyline**: Delve into a gripping narrative that blurs the line between reality and nightmare.
-- **Complex Puzzles**: Challenge your intellect with intricate puzzles that require keen observation and problem-solving skills. **in the future**
-- **Stealth Mechanics**: Utilize stealth tactics to evade the relentless entity that hunts you. Remember, silence is your ally. **in the future**
+- **Complex Puzzles** (**in the future**): Challenge your intellect with intricate puzzles that require keen observation and problem-solving skills. 
+- **Stealth Mechanics** (**in the future**): Utilize stealth tactics to evade the relentless entity that hunts you. Remember, silence is your ally. 
 - **Tense Atmosphere**: Experience a chilling environment that keeps you on edge from start to finish.
-- **Dynamic Gameplay**: Engage in life-or-death decisions that shape your path through the hospital. **kinda**
+- **Dynamic Gameplay** (**kinda**): Engage in life-or-death decisions that shape your path through the hospital. 
 
 ## Installation
 
-1. **Download the game**: [Hatman Download Link] **not yet**
+1. **Download the game** (**not yet**): [Hatman Download Link]
 2. **Extract the files**: Unzip the downloaded file to your desired location.
 3. **Run the game**: Open the extracted folder and double-click on `Hatman.exe` to start the game.
 
@@ -28,8 +28,12 @@ In this game, your mental and physical prowess will be put to the test through i
 - **W/A/S/D**: Move
 - **Shift**: Run
 - **Ctrl**: Crouch
+- **LMB**: Pickup Object
+    - **R hold** : Rotate Objects
+    - **SCROLL**: Make the object get closer or farther from you
+    - **RMB**: Throw the item 
 - **F**: Interact
-- **RMB**: Use flashlight
+- **T**: Use flashlight
 - **Esc**: Pause/Menu
 
 ## Tips and Tricks
