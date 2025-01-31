@@ -1,8 +1,5 @@
 # Hatman - README
 
-## Link for the Drive where all the things and charts are:
-https://drive.google.com/drive/u/2/folders/1fiFLvC2eLqPz65HxDYq4j5nY53bsHQ7i
-
 ## Description
 
 Welcome to **Hatman**, a spine-chilling horror game where you take on the role of a doctor investigating the mind-altering effects of a potent psychoactive drug. The hospital, once a beacon of modern medicine, has transformed into a terrifying maze. An enigmatic force, born from the drug's dark power, shadows your every move within the facility's walls.
