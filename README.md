@@ -19,7 +19,7 @@ In this game, your mental and physical prowess will be put to the test through i
 
 ## Installation
 
-1. **Download the game** (**not yet**): [Hatman Download Link](https://drive.google.com/file/d/1dRqDEDUEbEE0Oet8C2ZwVOZYHJGSNxXg/view?usp=sharing)
+1. **Download the game** (**V0.1**): [Hatman Download Link](https://drive.google.com/file/d/1dRqDEDUEbEE0Oet8C2ZwVOZYHJGSNxXg/view?usp=sharing)
 2. **Extract the files**: Unzip the downloaded file to your desired location.
 3. **Run the game**: Open the extracted folder and double-click on `Hatman.exe` to start the game.
 
