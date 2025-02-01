@@ -30,7 +30,7 @@ In this game, your mental and physical prowess will be put to the test through i
     - **SCROLL**: Make the object get closer or farther from you
     - **RMB**: Throw the item 
 - **F**: Interact
-- **T**: Use flashlight
+- **T**: Use flashlight , ALSO you can now blind HATMAN in order to give yourself time to run (**point it in his eyes**)
 - **Q/E**: Lean
 - **Esc**: Pause/Menu
 
